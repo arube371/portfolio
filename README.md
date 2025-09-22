@@ -1,4 +1,4 @@
-# portfolio
+![c4c6bb02-6859-4972-acb1-dd9e59aa37a5](https://github.com/user-attachments/assets/32d637f6-aed6-4a27-9bf8-b7671271b5bf)![c4c6bb02-6859-4972-acb1-dd9e59aa37a5](https://github.com/user-attachments/assets/699b29f6-4e7c-40e7-a5de-86887af0ee44)![c4c6bb02-6859-4972-acb1-dd9e59aa37a5](https://github.com/user-attachments/assets/a005cdc2-ade0-4bcc-a878-0ca08ae5001e)# portfolio
 portfolio/
  ┣ index.html
  ┣ style.css
@@ -18,8 +18,8 @@ portfolio/
 <body>
   <!-- Home Section -->
   <header id="home">
-    <img src="images/profile.jpg" alt="Profile Picture" class="profile-pic">
-    <h1>Your Name</h1>
+    <img src=" .jpg" alt="Profile Picture" class="profile-pic">
+    <h1>KIDEANONO LAWRENCE</h1>
     <p>Upcoming IT Professional | Web & Mobile App Development</p>
   </header>
 
