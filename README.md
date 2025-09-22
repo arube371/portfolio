@@ -3,7 +3,8 @@ portfolio/
  ┣ index.html
  ┣ style.css
  ┣ script.js
- ┗ images/
+ ┗ images ![c4c6bb02-6859-4972-acb1-dd9e59aa37a5](https://github.com/user-attachments/assets/403fc4ed-4065-4e37-ab4a-36176026ad70)
+/
       ┗ profile.jpg
 
       <!DOCTYPE html>
